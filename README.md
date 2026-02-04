@@ -2,7 +2,7 @@ Hello there 👋
 
 Indie Developer | Full-Stack Web & Mobile Apps
 
-Building real-world products with clean architecture and scalable systems, from idea to deployment.<br>
+Building real-world products with clean architecture and scalable systems, from idea to deployment. <br>
 Actively working on private, production-grade projects. 
 
 ---
